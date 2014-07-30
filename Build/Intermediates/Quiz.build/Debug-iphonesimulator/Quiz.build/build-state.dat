@@ -1,0 +1,749 @@
+TQuiz
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-ggtjofsuzmdrpkcvrjvfxcinqxbq/Quiz-Prefix.pch.pch Quiz/Quiz-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/main.o /Users/Izureru/dev/Quiz/Quiz/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRAppDelegate.o /Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRQuizViewController.o /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz normal i386
+cCopyStringsFile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/en.lproj/InfoPlist.strings Quiz/en.lproj/InfoPlist.strings
+cCompileXIB /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib
+cCompileAssetCatalog /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app /Users/Izureru/dev/Quiz/Quiz/Images.xcassets
+cProcessInfoPlistFile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist /Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist
+cGenerateDSYMFile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz
+cTouch /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005388B29E00000000000003B4
+t1401467550
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005388B2A3000000000000019E
+t1401467555
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005388B2A4000000000058E0E0
+t1401467556
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005388B2A400000000005B82F0
+t1401467556
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005388B2A40000000000446820
+t1401467556
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005388B2A400000000003599D0
+t1401467556
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005388B2A500000000002FC3B0
+t1401467557
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005388B2A5000000000004B000
+t1401467557
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005388B2A5000000000088D8C0
+t1401467557
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005388B2A70000000000037680
+t1401467559
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005388B2A7000000000048F720
+t1401467559
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005388B2A7000000000013FD70
+t1401467559
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005388BD130000000001F1DE10
+t1401470227
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005388BD1B00000000002BC360
+t1401470235
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005388BD200000000000002338
+t1401470240
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c000000005388BD20000000000008D370
+t1401470240
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c000000005388BD200000000000392E20
+t1401470240
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000053886F1100000000000141F0
+t1401450257
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c000000005388BD200000000000014A80
+t1401470240
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005388BD200000000000033BA0
+t1401470240
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005388BD20000000000001CFB0
+t1401470240
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005388BD20000000000001B2B0
+t1401470240
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005388BD2000000000000C9570
+t1401470240
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005388BD200000000000063280
+t1401470240
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005388BD200000000000008880
+t1401470240
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005388BD200000000000015080
+t1401470240
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005388BD2000000000000230F0
+t1401470240
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005388BD20000000000000E380
+t1401470240
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005388BD200000000000089380
+t1401470240
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c000000005388BD200000000000017320
+t1401470240
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005388BD200000000000039CD0
+t1401470240
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005388BD20000000000000B0B0
+t1401470240
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005388BD200000000000167E80
+t1401470240
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005388BD2000000000000106A0
+t1401470240
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005388BD20000000000001CE40
+t1401470240
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005388BD2000000000000740C0
+t1401470240
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005388BD20000000000006CA60
+t1401470240
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005388BD20000000000001BAD0
+t1401470240
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005388BD200000000000084A20
+t1401470240
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005388BD320000000000000ADC
+t1401470258
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005388BD32000000000000514C
+t1401470258
+s20812
+
+N/Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-ggtjofsuzmdrpkcvrjvfxcinqxbq/Quiz-Prefix.pch.pch
+t1406621825
+s115428
+
+N/Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-gtkvupjrrfojpccgjyqysszdxnav/Quiz-Prefix.pch.pch
+t1406625075
+s115584
+
+N/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRAppDelegate.o
+t1406622878
+s64576
+
+N/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRQuizViewController.o
+t1406622515
+s72268
+
+N/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/Quiz.LinkFileList
+c0000000053D758800000000000000174
+t1406621824
+s372
+
+N/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/main.o
+t1406621825
+s3484
+
+N/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/StaticAnalyzer/Quiz/Quiz/normal/i386/BNRAppDelegate.plist
+t2
+s0
+
+N/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/StaticAnalyzer/Quiz/Quiz/normal/i386/BNRQuizViewController.plist
+t2
+s0
+
+N/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/StaticAnalyzer/Quiz/Quiz/normal/i386/main.plist
+t2
+s0
+
+N/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_dependencies.txt
+t1406706445
+s408
+
+N/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist
+t1406706445
+s709
+
+N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app
+t1406706445
+s340
+
+N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM
+t1406706445
+s102
+
+N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/BNRQuizViewController.nib
+t1406623162
+s5026
+
+N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist
+t1406706445
+s1073
+
+N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/PkgInfo
+t1406706445
+s8
+
+N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz
+t1406622878
+s37628
+
+N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/en.lproj/InfoPlist.strings
+t1406621825
+s42
+
+N/Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.h
+c0000000053C410EE000000000000011A
+t1405358318
+s282
+
+N/Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m
+c0000000053D75C9D000000000000092B
+t1406622877
+s2347
+
+N/Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.h
+c0000000053CD383000000000000000E4
+t1405958192
+s228
+
+N/Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m
+c0000000053D75B320000000000000F9A
+t1406622514
+s3994
+
+N/Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib
+c0000000053D75DBA00000000000020BA
+t1406623162
+s8378
+
+N/Users/Izureru/dev/Quiz/Quiz/Images.xcassets
+c0000000053D8A2F10000000000000088
+t1406706417
+s136
+
+N/Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist
+c0000000053D765F8000000000000049B
+t1406625272
+s1179
+
+N/Users/Izureru/dev/Quiz/Quiz/Quiz-Prefix.pch
+c0000000053C410EE0000000000000158
+t1405358318
+s344
+
+N/Users/Izureru/dev/Quiz/Quiz/en.lproj/InfoPlist.strings
+c0000000053C410EE000000000000002D
+t1405358318
+s45
+
+N/Users/Izureru/dev/Quiz/Quiz/main.m
+c0000000053C410EE0000000000000156
+t1405358318
+s342
+
+N/usr/lib/libSystem.B.dylib
+c0000000053886F05000000000000E6D0
+t1401450245
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000053886F110000000000012A00
+t1401450257
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000053886EFA000000000002E320
+t1401450234
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000053886F050000000000021860
+t1401450245
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000053BCD076000000000001B610
+t1404883062
+s112144
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000053886F1000000000000BD920
+t1401450256
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000053886F1100000000000141F0
+t1401450257
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000053886F11000000000000A120
+t1401450257
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053BCD076000000000001D550
+t1404883062
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000053886F100000000000014EE0
+t1401450256
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000053886F120000000000010380
+t1401450258
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000053886F12000000000000C4C0
+t1401450258
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000053886F1100000000000357A0
+t1401450257
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000053886F11000000000000C070
+t1401450257
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000053886F050000000000168D00
+t1401450245
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000053886F100000000000010630
+t1401450256
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053BCD076000000000001DF10
+t1404883062
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000053886F050000000000075B00
+t1401450245
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053BCD076000000000007CD60
+t1404883062
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000053886F0500000000000766C0
+t1401450245
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000053886F110000000000044DC0
+t1401450257
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000053886F050000000000021FA0
+t1401450245
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053886F11000000000002D920
+t1401450257
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000053886F11000000000001E570
+t1401450257
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053BCD076000000000000CC70
+t1404883062
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000053886F0D000000000000C3F0
+t1401450253
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000053886F1100000000000199F0
+t1401450257
+s104944
+
+CAnalyze /Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m
+s428317875.232927
+e428317875.284172
+r1
+xAnalyze
+x/Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Analyze /Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m29"Analyze Quiz/BNRAppDelegate.ma7b33bb39c87b941^4dbf48b39c87b941^---0#0#1#-19%DVTDocumentLocation2@52"file:///Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m0000000000000000^3642"Analyze Quiz/BNRAppDelegate.m    cd /Users/Izureru/dev/Quiz    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Izureru/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=7.1 -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-generated-files.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-own-target-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-all-target-headers.hmap -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-project-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources/i386 -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources -F/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator -include /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-gtkvupjrrfojpccgjyqysszdxnav/Quiz-Prefix.pch --analyze /Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m -o /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/StaticAnalyzer/Quiz/Quiz/normal/i386/BNRAppDelegate.plist36"62DB6439-2414-44F3-A01A-955683046FB7-
+b67C42FFD-83BB-4A19-B056-6DB35A874B71
+
+CAnalyze /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m
+s428317875.233402
+e428317875.287156
+r1
+xAnalyze
+x/Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Analyze /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m36"Analyze Quiz/BNRQuizViewController.m28d43bb39c87b941^c78349b39c87b941^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m0000000000000000^3663"Analyze Quiz/BNRQuizViewController.m    cd /Users/Izureru/dev/Quiz    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Izureru/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=7.1 -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-generated-files.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-own-target-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-all-target-headers.hmap -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-project-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources/i386 -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources -F/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator -include /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-gtkvupjrrfojpccgjyqysszdxnav/Quiz-Prefix.pch --analyze /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m -o /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/StaticAnalyzer/Quiz/Quiz/normal/i386/BNRQuizViewController.plist36"77CA4F0F-FCD8-4D93-93A4-720F01524D26-
+b67C42FFD-83BB-4A19-B056-6DB35A874B71
+
+CAnalyze /Users/Izureru/dev/Quiz/Quiz/main.m
+s428317875.232719
+e428317875.284167
+r1
+xAnalyze
+x/Users/Izureru/dev/Quiz/Quiz/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Analyze /Users/Izureru/dev/Quiz/Quiz/main.m19"Analyze Quiz/main.mc1a93bb39c87b941^c2c348b39c87b941^---0#0#1#-19%DVTDocumentLocation2@42"file:///Users/Izureru/dev/Quiz/Quiz/main.m0000000000000000^3612"Analyze Quiz/main.m    cd /Users/Izureru/dev/Quiz    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Izureru/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=7.1 -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-generated-files.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-own-target-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-all-target-headers.hmap -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-project-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources/i386 -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources -F/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator -include /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-gtkvupjrrfojpccgjyqysszdxnav/Quiz-Prefix.pch --analyze /Users/Izureru/dev/Quiz/Quiz/main.m -o /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/StaticAnalyzer/Quiz/Quiz/normal/i386/main.plist36"D3316B08-2C0A-479B-947A-998671175099-
+b67C42FFD-83BB-4A19-B056-6DB35A874B71
+
+CBuild AST from /Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m
+r0
+
+CBuild AST from /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m
+r0
+
+CBuild AST from /Users/Izureru/dev/Quiz/Quiz/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies65c69f3ffa88b941^f700a93ffa88b941^---0#1#1#--18"Check dependencies36"8CBD4972-2461-4202-A5D5-653903E1C7FB-
+
+CCompileAssetCatalog /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app /Users/Izureru/dev/Quiz/Quiz/Images.xcassets
+s428399243.682263
+e428399245.638916
+r1
+xCompileAssetCatalog
+x/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app
+x/Users/Izureru/dev/Quiz/Quiz/Images.xcassets
+o2014-07-30 08:47:25.468 IBCocoaTouchImageCatalogTool[52065:303] CFPreferences: user home directory at file:///Users/Izureru/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/AppIcon60x60@2x.png
+o/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/LaunchImage-700-568h@2x.png
+o/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Assets.car
+o/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Quiz.app Quiz/Images.xcassets86"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Quiz.app Quiz/Images.xcassetsc2fbae8bda88b941^6490a38dda88b941^-661"2014-07-30 08:47:25.468 IBCocoaTouchImageCatalogTool[52065:303] CFPreferences: user home directory at file:///Users/Izureru/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/AppIcon60x60@2x.png/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/LaunchImage-700-568h@2x.png/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Assets.car/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@52"file:///Users/Izureru/dev/Quiz/Quiz/Images.xcassets/0000000000000000^1039"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Quiz.app Quiz/Images.xcassets    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app /Users/Izureru/dev/Quiz/Quiz/Images.xcassets36"2E8D1608-EA14-4EDF-B62F-6F7E5A1667AC-
+bBBF1A24B-54D1-4A45-804C-5D9866E01F1C
+
+CCompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRAppDelegate.o /Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428315678.769886
+e428315678.820299
+r1
+xCompileC
+xBuild/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRAppDelegate.o
+x/Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m
+d/Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.h
+d/Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m199"CompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRAppDelegate.o Quiz/BNRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4a28c51e9487b941^3601d21e9487b941^---0#0#1#-19%DVTDocumentLocation2@52"file:///Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m0000000000000000^3377"CompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRAppDelegate.o Quiz/BNRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Izureru/dev/Quiz    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Izureru/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-generated-files.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-own-target-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-all-target-headers.hmap -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-project-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources/i386 -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources -F/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator -include /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-ggtjofsuzmdrpkcvrjvfxcinqxbq/Quiz-Prefix.pch -MMD -MT dependencies -MF /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRAppDelegate.d --serialize-diagnostics /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRAppDelegate.dia -c /Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m -o /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRAppDelegate.o36"32C04E00-97F7-4B66-8A6E-C2439EA83680-
+b3A7A36FB-8BD7-46AA-A954-C04F8235DA50
+
+CCompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRQuizViewController.o /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428315315.499320
+e428315315.556665
+r1
+xCompileC
+xBuild/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRQuizViewController.o
+x/Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m
+d/Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m213"CompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRQuizViewController.o Quiz/BNRQuizViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercde47fb39287b941^ba818eb39287b941^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m0000000000000000^3419"CompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRQuizViewController.o Quiz/BNRQuizViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Izureru/dev/Quiz    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Izureru/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-generated-files.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-own-target-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-all-target-headers.hmap -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-project-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources/i386 -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources -F/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator -include /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-ggtjofsuzmdrpkcvrjvfxcinqxbq/Quiz-Prefix.pch -MMD -MT dependencies -MF /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRQuizViewController.d --serialize-diagnostics /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRQuizViewController.dia -c /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.m -o /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRQuizViewController.o36"DC407A87-2ED4-4D57-B923-90E74BF13CA9-
+bE5C784A5-B96B-4C20-9843-782DC5E173E5
+
+CCompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/main.o /Users/Izureru/dev/Quiz/Quiz/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428314625.299733
+e428314625.398656
+r1
+xCompileC
+xBuild/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/main.o
+x/Users/Izureru/dev/Quiz/Quiz/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Izureru/dev/Quiz/Quiz/main.m
+d/Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/Izureru/dev/Quiz/Quiz/main.m179"CompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/main.o Quiz/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd9d14c019087b941^630e66019087b941^---0#0#1#-19%DVTDocumentLocation2@42"file:///Users/Izureru/dev/Quiz/Quiz/main.m0000000000000000^3317"CompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/main.o Quiz/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Izureru/dev/Quiz    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Izureru/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-generated-files.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-own-target-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-all-target-headers.hmap -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-project-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources/i386 -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources -F/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator -include /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-ggtjofsuzmdrpkcvrjvfxcinqxbq/Quiz-Prefix.pch -MMD -MT dependencies -MF /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/main.dia -c /Users/Izureru/dev/Quiz/Quiz/main.m -o /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/main.o36"32C56E6F-A656-402C-9C5A-4C833D6E48AE-
+bD8CF6A29-50F6-401F-8A15-F52E70C046D9
+
+CCompileXIB /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib
+s428315962.038233
+e428315962.172145
+r1
+xCompileXIB
+x/Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compiling /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib41"CompileXIB Quiz/BNRQuizViewController.xib7cd6093a9587b941^6a122c3a9587b941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib0000000000000000^724"CompileXIB Quiz/BNRQuizViewController.xib    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/BNRQuizViewController.nib /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib36"16B7F0F4-F3F5-4B2B-B8A5-F3AB5E219326-
+bF9F7FCAA-257E-4EFA-A459-5F0A6788C77D
+
+CCopyStringsFile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/en.lproj/InfoPlist.strings Quiz/en.lproj/InfoPlist.strings
+s428314625.612973
+e428314625.622009
+r1
+xCopyStringsFile
+x/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/en.lproj/InfoPlist.strings
+xQuiz/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy Quiz/en.lproj/InfoPlist.strings120"CopyStringsFile Build/Products/Debug-iphonesimulator/Quiz.app/en.lproj/InfoPlist.strings Quiz/en.lproj/InfoPlist.strings40fc9c019087b941^3e3c9f019087b941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/Izureru/dev/Quiz/Quiz/en.lproj/InfoPlist.strings0000000000000000^551"CopyStringsFile Build/Products/Debug-iphonesimulator/Quiz.app/en.lproj/InfoPlist.strings Quiz/en.lproj/InfoPlist.strings    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/en.lproj -- Quiz/en.lproj/InfoPlist.strings36"88440E36-3A6F-4CF5-A867-C39A2DA0F48E-
+bD8CF6A29-50F6-401F-8A15-F52E70C046D9
+
+CGenerateDSYMFile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz
+s428399245.640885
+e428399245.658656
+r1
+xGenerateDSYMFile
+x/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM
+x/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generate /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM118"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Quiz.app.dSYM Build/Products/Debug-iphonesimulator/Quiz.app/Quiz001ba48dda88b941^779ea88dda88b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM/0000000000000000^598"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Quiz.app.dSYM Build/Products/Debug-iphonesimulator/Quiz.app/Quiz    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz -o /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM36"279260C8-F637-4941-9918-64E0966E924A-
+bBBF1A24B-54D1-4A45-804C-5D9866E01F1C
+
+CLd /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz normal i386
+s428315678.821571
+e428315678.846116
+r1
+xLd
+x/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz
+xnormal
+xi386
+d/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/Quiz.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/main.o
+d/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRAppDelegate.o
+d/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRQuizViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Link /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz65"Ld Build/Products/Debug-iphonesimulator/Quiz.app/Quiz normal i386635fd21e9487b941^d89bd81e9487b941^---0#0#1#--1269"Ld Build/Products/Debug-iphonesimulator/Quiz.app/Quiz normal i386    cd /Users/Izureru/dev/Quiz    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator -F/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator -filelist /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/Quiz.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/Quiz_dependency_info.dat -o /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz36"4C983028-302E-4279-ACAB-EEEF20076D40-
+b3A7A36FB-8BD7-46AA-A954-C04F8235DA50
+
+CProcessInfoPlistFile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist /Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist
+s428399245.639330
+e428399245.640590
+r1
+xProcessInfoPlistFile
+x/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist
+x/Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process /Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist98"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist Quiz/Quiz-Info.plist1bb8a38dda88b941^3885a58dda88b941^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist0000000000000000^780"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist Quiz/Quiz-Info.plist    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist -genpkginfo /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist -o /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist36"0B4E9B20-49B4-48D8-99EA-613DE54915C2-
+bBBF1A24B-54D1-4A45-804C-5D9866E01F1C
+
+CProcessPCH /Users/Izureru/Library/Developer/Xcode/DerivedData/Quiz-etzbizlujlibfldgylmmsxrwjxzp/Index/PrecompiledHeaders/Quiz-Prefix-brkoonqmhvnvybbugzvuulgsjozn_ast/Quiz-Prefix.pch.pch Quiz/Quiz-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-ggtjofsuzmdrpkcvrjvfxcinqxbq/Quiz-Prefix.pch.pch Quiz/Quiz-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428314624.194240
+e428314625.299072
+r1
+xProcessPCH
+x/Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-ggtjofsuzmdrpkcvrjvfxcinqxbq/Quiz-Prefix.pch.pch
+xQuiz/Quiz-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Izureru/dev/Quiz/Quiz/Quiz-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Quiz/Quiz-Prefix.pch199"ProcessPCH Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-ggtjofsuzmdrpkcvrjvfxcinqxbq/Quiz-Prefix.pch.pch Quiz/Quiz-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler134332009087b941^14924c019087b941^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/Izureru/dev/Quiz/Quiz/Quiz-Prefix.pch0000000000000000^3247"ProcessPCH Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-ggtjofsuzmdrpkcvrjvfxcinqxbq/Quiz-Prefix.pch.pch Quiz/Quiz-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Izureru/dev/Quiz    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Izureru/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-generated-files.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-own-target-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-all-target-headers.hmap -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-project-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources/i386 -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources -F/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-ggtjofsuzmdrpkcvrjvfxcinqxbq/Quiz-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-ggtjofsuzmdrpkcvrjvfxcinqxbq/Quiz-Prefix.pch.d -c /Users/Izureru/dev/Quiz/Quiz/Quiz-Prefix.pch -o /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-ggtjofsuzmdrpkcvrjvfxcinqxbq/Quiz-Prefix.pch.pch36"E0BC4183-3D01-43F4-9105-4E5883F88550-
+bD8CF6A29-50F6-401F-8A15-F52E70C046D9
+
+CProcessPCH /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-gtkvupjrrfojpccgjyqysszdxnav/Quiz-Prefix.pch.pch Quiz/Quiz-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s428317874.430348
+e428317875.231297
+r1
+xProcessPCH
+x/Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-gtkvupjrrfojpccgjyqysszdxnav/Quiz-Prefix.pch.pch
+xQuiz/Quiz-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Quiz/Quiz-Prefix.pch199"ProcessPCH Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-gtkvupjrrfojpccgjyqysszdxnav/Quiz-Prefix.pch.pch Quiz/Quiz-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer9f3e6eb29c87b941^263a3bb39c87b941^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/Izureru/dev/Quiz/Quiz/Quiz-Prefix.pch0000000000000000^3660"ProcessPCH Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-gtkvupjrrfojpccgjyqysszdxnav/Quiz-Prefix.pch.pch Quiz/Quiz-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/Izureru/dev/Quiz    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Izureru/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -mios-simulator-version-min=7.1 -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-generated-files.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-own-target-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-all-target-headers.hmap -iquote /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Quiz-project-headers.hmap -I/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources/i386 -I/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/DerivedSources -F/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator -c /Users/Izureru/dev/Quiz/Quiz/Quiz-Prefix.pch -o /Users/Izureru/dev/Quiz/Build/Intermediates/PrecompiledHeaders/Quiz-Prefix-gtkvupjrrfojpccgjyqysszdxnav/Quiz-Prefix.pch.pch36"9636BCCB-F3E2-4DC6-A51E-10E341545CA8-
+b67C42FFD-83BB-4A19-B056-6DB35A874B71
+
+CTouch /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app
+s428399245.659087
+e428399245.663095
+r1
+xTouch
+x/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Touch /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app51"Touch Build/Products/Debug-iphonesimulator/Quiz.appb9c5a88dda88b941^72c1a98dda88b941^---0#0#1#--370"Touch Build/Products/Debug-iphonesimulator/Quiz.app    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app36"B7FDC53D-FDC9-4E0E-BBC8-BFDC53F5CF5F-
+bBBF1A24B-54D1-4A45-804C-5D9866E01F1C
+

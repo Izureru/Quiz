@@ -2,11 +2,12 @@
 //  BNRAppDelegate.m
 //  Quiz
 //
-//  Created by I Lewis on 23/05/2014.
-//  Copyright (c) 2014 Jream Matter. All rights reserved.
+//  Created by Izureru on 14/07/2014.
+//  Copyright (c) 2014 Big Nerd Ranch. All rights reserved.
 //
 
 #import "BNRAppDelegate.h"
+#import "BNRQuizViewController.h"
 
 @implementation BNRAppDelegate
 
@@ -14,6 +15,10 @@
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
+    
+    BNRQuizViewController *quizVC = [[BNRQuizViewController alloc] init];
+    self.window.rootViewController = quizVC;
+    
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     return YES;
