@@ -262,31 +262,31 @@ t2
 s0
 
 N/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_dependencies.txt
-t1406706445
-s408
+t1406793319
+s502
 
 N/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist
-t1406706445
-s709
+t1406793319
+s995
 
 N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app
-t1406706445
-s340
+t1406793319
+s374
 
 N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM
 t1406706445
 s102
 
 N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/BNRQuizViewController.nib
-t1406623162
-s5026
+t1406729346
+s5017
 
 N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist
-t1406706445
-s1073
+t1406793319
+s1135
 
 N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/PkgInfo
-t1406706445
+t1406793319
 s8
 
 N/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz
@@ -318,13 +318,13 @@ t1406622514
 s3994
 
 N/Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib
-c0000000053D75DBA00000000000020BA
-t1406623162
-s8378
+c0000000053D8FC8200000000000020BB
+t1406729346
+s8379
 
 N/Users/Izureru/dev/Quiz/Quiz/Images.xcassets
-c0000000053D8A2F10000000000000088
-t1406706417
+c0000000053D9F6590000000000000088
+t1406793305
 s136
 
 N/Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist
@@ -520,24 +520,25 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies65c69f3ffa88b941^f700a93ffa88b941^---0#1#1#--18"Check dependencies36"8CBD4972-2461-4202-A5D5-653903E1C7FB-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0514d2e62d8ab941^8254d2e62d8ab941^---0#1#1#--18"Check dependencies36"1CFC3010-896C-4309-92B8-82028CF18C9D-
 
 CCompileAssetCatalog /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app /Users/Izureru/dev/Quiz/Quiz/Images.xcassets
-s428399243.682263
-e428399245.638916
+s428486118.823708
+e428486119.845038
 r1
 xCompileAssetCatalog
 x/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app
 x/Users/Izureru/dev/Quiz/Quiz/Images.xcassets
-o2014-07-30 08:47:25.468 IBCocoaTouchImageCatalogTool[52065:303] CFPreferences: user home directory at file:///Users/Izureru/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-07-31 08:55:19.777 IBCocoaTouchImageCatalogTool[57140:303] CFPreferences: user home directory at file:///Users/Izureru/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
 o/* com.apple.actool.compilation-results */
 o/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/AppIcon60x60@2x.png
+o/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/LaunchImage-700@2x.png
 o/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/LaunchImage-700-568h@2x.png
 o/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Assets.car
 o/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist
 o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Quiz.app Quiz/Images.xcassets86"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Quiz.app Quiz/Images.xcassetsc2fbae8bda88b941^6490a38dda88b941^-661"2014-07-30 08:47:25.468 IBCocoaTouchImageCatalogTool[52065:303] CFPreferences: user home directory at file:///Users/Izureru/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/AppIcon60x60@2x.png/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/LaunchImage-700-568h@2x.png/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Assets.car/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@52"file:///Users/Izureru/dev/Quiz/Quiz/Images.xcassets/0000000000000000^1039"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Quiz.app Quiz/Images.xcassets    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app /Users/Izureru/dev/Quiz/Quiz/Images.xcassets36"2E8D1608-EA14-4EDF-B62F-6F7E5A1667AC-
-bBBF1A24B-54D1-4A45-804C-5D9866E01F1C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Quiz.app Quiz/Images.xcassets86"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Quiz.app Quiz/Images.xcassetsecd9d3e62d8ab941^9b54d8e72d8ab941^-754"2014-07-31 08:55:19.777 IBCocoaTouchImageCatalogTool[57140:303] CFPreferences: user home directory at file:///Users/Izureru/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/AppIcon60x60@2x.png/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/LaunchImage-700@2x.png/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/LaunchImage-700-568h@2x.png/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Assets.car/Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@52"file:///Users/Izureru/dev/Quiz/Quiz/Images.xcassets/0000000000000000^1039"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Quiz.app Quiz/Images.xcassets    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app /Users/Izureru/dev/Quiz/Quiz/Images.xcassets36"A637C84C-BBA0-4B5D-A043-FA91AAFAD213-
+bB265844B-8004-4E00-BA69-F77AD74523C7
 
 CCompileC Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/Objects-normal/i386/BNRAppDelegate.o /Users/Izureru/dev/Quiz/Quiz/BNRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s428315678.769886
@@ -589,13 +590,13 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile
 bD8CF6A29-50F6-401F-8A15-F52E70C046D9
 
 CCompileXIB /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib
-s428315962.038233
-e428315962.172145
+s428422146.099460
+e428422146.231640
 r1
 xCompileXIB
 x/Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compiling /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib41"CompileXIB Quiz/BNRQuizViewController.xib7cd6093a9587b941^6a122c3a9587b941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib0000000000000000^724"CompileXIB Quiz/BNRQuizViewController.xib    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/BNRQuizViewController.nib /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib36"16B7F0F4-F3F5-4B2B-B8A5-F3AB5E219326-
-bF9F7FCAA-257E-4EFA-A459-5F0A6788C77D
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compiling /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib41"CompileXIB Quiz/BNRQuizViewController.xibd7a219023489b941^c24c3b023489b941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib0000000000000000^724"CompileXIB Quiz/BNRQuizViewController.xib    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/BNRQuizViewController.nib /Users/Izureru/dev/Quiz/Quiz/BNRQuizViewController.xib36"96C8E129-1167-4F24-B784-05FF6E9706CC-
+bE9A963E3-25D7-4B88-AC33-7BAD21648E33
 
 CCopyStringsFile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/en.lproj/InfoPlist.strings Quiz/en.lproj/InfoPlist.strings
 s428314625.612973
@@ -608,14 +609,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy Qu
 bD8CF6A29-50F6-401F-8A15-F52E70C046D9
 
 CGenerateDSYMFile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz
-s428399245.640885
-e428399245.658656
+s428486119.848730
+e428486119.868397
 r1
 xGenerateDSYMFile
 x/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM
 x/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generate /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM118"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Quiz.app.dSYM Build/Products/Debug-iphonesimulator/Quiz.app/Quiz001ba48dda88b941^779ea88dda88b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM/0000000000000000^598"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Quiz.app.dSYM Build/Products/Debug-iphonesimulator/Quiz.app/Quiz    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz -o /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM36"279260C8-F637-4941-9918-64E0966E924A-
-bBBF1A24B-54D1-4A45-804C-5D9866E01F1C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generate /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM118"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Quiz.app.dSYM Build/Products/Debug-iphonesimulator/Quiz.app/Quiz6151d9e72d8ab941^ad4edee72d8ab941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM/0000000000000000^598"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Quiz.app.dSYM Build/Products/Debug-iphonesimulator/Quiz.app/Quiz    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz -o /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app.dSYM36"557F7145-AC53-4EB6-A970-8477001ECB28-
+bB265844B-8004-4E00-BA69-F77AD74523C7
 
 CLd /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Quiz normal i386
 s428315678.821571
@@ -697,14 +698,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Link /U
 b3A7A36FB-8BD7-46AA-A954-C04F8235DA50
 
 CProcessInfoPlistFile /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist /Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist
-s428399245.639330
-e428399245.640590
+s428486119.845455
+e428486119.848412
 r1
 xProcessInfoPlistFile
 x/Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist
 x/Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process /Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist98"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist Quiz/Quiz-Info.plist1bb8a38dda88b941^3885a58dda88b941^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist0000000000000000^780"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist Quiz/Quiz-Info.plist    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist -genpkginfo /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist -o /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist36"0B4E9B20-49B4-48D8-99EA-613DE54915C2-
-bBBF1A24B-54D1-4A45-804C-5D9866E01F1C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process /Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist98"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist Quiz/Quiz-Info.plist3080d8e72d8ab941^4032d9e72d8ab941^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist0000000000000000^780"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist Quiz/Quiz-Info.plist    cd /Users/Izureru/dev/Quiz    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Izureru/dev/Quiz/Quiz/Quiz-Info.plist -genpkginfo /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Izureru/dev/Quiz/Build/Intermediates/Quiz.build/Debug-iphonesimulator/Quiz.build/assetcatalog_generated_info.plist -o /Users/Izureru/dev/Quiz/Build/Products/Debug-iphonesimulator/Quiz.app/Info.plist36"2E9888BF-53B1-4C6B-ABCF-6F713EA99CDC-
+bB265844B-8004-4E00-BA69-F77AD74523C7
 
 CProcessPCH /Users/Izureru/Library/Developer/Xcode/DerivedData/Quiz-etzbizlujlibfldgylmmsxrwjxzp/Index/PrecompiledHeaders/Quiz-Prefix-brkoonqmhvnvybbugzvuulgsjozn_ast/Quiz-Prefix.pch.pch Quiz/Quiz-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
 r0

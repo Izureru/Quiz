@@ -196,9 +196,9 @@
 		94EF2E9D1974486E00A2C34C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				CLASSPREFIX = BNR;
+				CLASSPREFIX = MNS;
 				LastUpgradeCheck = 0510;
-				ORGANIZATIONNAME = "Big Nerd Ranch";
+				ORGANIZATIONNAME = "MnS Dev";
 				TargetAttributes = {
 					94EF2EA41974486E00A2C34C = {
 						DevelopmentTeam = E68QAAURD5;
